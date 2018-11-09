@@ -19,3 +19,9 @@ The histograms of results of the EMCEE and Gibbs samplers:
 The values of Omega_matter were taken to be the samples of EMCEE and Gibbs with the highest log-likelihood and their variances were taken to be the variances of the Omat after the burnin period. They are approximately 0.30 plus or minus 0.05, but change each time the samplers are run. A plot of the lines of best fit is given below:
 
 ![](https://raw.githubusercontent.com/CourtA96/MCMC-Project/master/Lines%20of%20Best%20Fit.png)
+
+## Works Cited
+
+S. Perlmutter et al "Measurements of Omega and Lambda from high-redshift supernovae" https://arxiv.org/abs/astro-ph/9812133
+
+D. Lang "data-analysis-module" https://github.com/eschnett/2018-computational-physics-course/tree/master/data-analysis-module
