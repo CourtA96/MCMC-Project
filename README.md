@@ -4,6 +4,8 @@
 
 In their paper entitled "Measurements of Omega and Lambda from high-redshift supernovae", S. Perlmutter et al used data from the Supernova Cosmology Project to calculate the matter density of the universe, Omega_matter (Omat). The data gives the luminosity (m) for different amounts of redshift (z), and m is a function of Omat and another parameter M. The data is given in the figure below. The value they calculated was approximately 0.28(+/-)1. This project uses the data from their paper to calculate Omega_matter using Markov Chain Monte Carlo (MCMC) methods. EMCEE and Gibbs samplers were used and compared to each other.
 
+![](https://raw.githubusercontent.com/CourtA96/MCMC-Project/master/Data.png)
+
 The project file is entitled "Finding the Value of Omega Matter" and is a jupyter notebook.
 
 ## Results
